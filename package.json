@@ -1,5 +1,5 @@
 {
-  "name": "@sea-lion/app-vite-template",
+  "name": "edge-sam-app",
   "version": "0.1.12",
   "type": "module",
   "scripts": {
@@ -26,8 +26,8 @@
     "js-cookie": "^3.0.5",
     "qs": "^6.11.2",
     "query-string": "^8.1.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
     "react-intl": "^6.4.4",
     "react-router-dom": "^6.13.0",
     "sea-lion-ui": "latest"
